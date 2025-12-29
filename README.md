@@ -43,7 +43,7 @@ This project requires PyTorch, Ultralytics YOLO, and Lightly (for SSL).
 
 ```bash
 # Clone the repository
-git clone ![https://github.com/hossamnasr807/Hierarchical-Dental-X-Ray-Analysis-with-Self-Supervised-Learning.git](https://github.com/hossamnasr807/Hierarchical-Dental-X-Ray-Analysis-with-Self-Supervised-Learning.git)
+git clone https://github.com/hossamnasr807/Hierarchical-Dental-X-Ray-Analysis-with-Self-Supervised-Learning.git
 cd dentex-hierarchical-analysis
 
 # Install dependencies
