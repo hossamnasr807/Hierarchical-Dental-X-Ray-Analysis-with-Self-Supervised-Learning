@@ -10,7 +10,6 @@ A state-of-the-art deep learning pipeline for analyzing panoramic dental X-rays 
 Designed for the **DENTEX Challenge** dataset.
 
 ![System Architecture](docs/pipeline_diagram.png)
-*(Note: Replace `docs/pipeline_diagram.png` with your actual architecture diagram)*
 
 ## 🧠 Core Features
 
